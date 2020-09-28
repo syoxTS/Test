@@ -2,7 +2,7 @@
 
 Download the recommended NodeJS version and Install it: https://nodejs.org/en/
 
-Clone this repo to your harddisk, open CMD and enter the directory
+Download this script by pressing the green button on the top right called "Code" and click Download ZIP, open CMD and enter the directory.
 
 Tutorial: https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository
 
