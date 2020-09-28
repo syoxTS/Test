@@ -10,5 +10,7 @@ npm install
 
 npm index
 
+
 Thats it! 
+
 This script will create a text file for every TS5 profile and export all of your contact names.
