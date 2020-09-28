@@ -1,10 +1,10 @@
 # How to use the messenger exporter?
 
-Download the recommended NodeJS version and Install it: https://nodejs.org/en/
+1. Download the recommended NodeJS version and Install it: https://nodejs.org/en/
 
-Download this script by pressing the green button on the top right called "Code" and click Download ZIP.
+2. Download this script by pressing the green button on the top right called "Code" and click Download ZIP.
 
-Open CMD and enter the follownig directory.
+3. Open CMD and enter the follownig directory.
 
 npm install
 
