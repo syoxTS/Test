@@ -1,4 +1,4 @@
-# How to use this?
+# How to use the messenger exporter?
 
 Download the recommended NodeJS version and Install it: https://nodejs.org/en/
 
