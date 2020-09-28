@@ -1,8 +1,6 @@
 # How to use this?
 
-Download NodeJS: https://nodejs.org/en/
-
-Install NodeJS.
+Download the recommended NodeJS version and Install it: https://nodejs.org/en/
 
 Clone this repo to your harddisk, open CMD and enter the directory
 
