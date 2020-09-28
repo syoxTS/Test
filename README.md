@@ -6,10 +6,10 @@ Download this script by pressing the green button on the top right called "Code"
 
 Open CMD and enter the follownig directory.
 
-  npm install
+npm install
 
-  npm index
+npm index
 
-  This script will create a text file for every TS5 profile and export all of your contacts.
+This script will create a text file for every TS5 profile and export all of your contacts.
 
-  Thats it!
+Thats it!
